@@ -1,7 +1,7 @@
 # Hello World! I'm Jan 👋
 
 ## Summary
-I'm a Student at Střední průmyslová škola Brno with a passion for machine learning, deep learning, and backend development. Versatile in roles like Machine learning specialist and Software Developer. GitHub showcases hands-on projects, eager to contribute in ML and backend development.
+I'm a Student at Střední průmyslová škola Brno, Purkyňova with a passion for machine learning, deep learning, and backend development. Versatile in roles like Machine learning specialist and Software Developer. GitHub showcases hands-on projects, eager to contribute in ML and backend development.
 
 ## Skills
 - 🚀 Golang, 🔍 C#, ☕ Java, 💻 C++
@@ -22,7 +22,7 @@ Here are some of the bigger projects I have worked on or contributed to:
 
 ## Contact
 
-- **Email:** jan.soukenik@hotmail.com
-- **Hugging Face:** [Dzeniks](https://huggingface.co/Dzeniks)
-- **LeetCode:** [dzeniks](https://leetcode.com/dzeniks/)
-- **LinkedIn:** [Jan Soukeník](https://www.linkedin.com/in/jan-soukenik/)
+- 📧 **Email:** jan.soukenik@hotmail.com
+- 🤗 **Hugging Face:** [Dzeniks](https://huggingface.co/Dzeniks)
+- 🔐 **LeetCode:** [dzeniks](https://leetcode.com/dzeniks/)
+- 💼 **LinkedIn:** [Jan Soukeník](https://www.linkedin.com/in/jan-soukenik/)
