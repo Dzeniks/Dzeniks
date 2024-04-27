@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" style="background: whitesmoke; border-radius: 10px" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" style="background: whitesmoke; border-radius: 10px" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
@@ -67,9 +67,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo" style="background: whitesmoke; border-radius: 10px" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" style="background: whitesmoke; border-radius: 10px" />
 </div>
 
 ###
@@ -81,7 +81,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" style="background: whitesmoke; border-radius: 10px" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
@@ -89,10 +89,11 @@
 ## Projects
 Here are some of the bigger projects I have worked on or contributed to:
 
-- 🚀 [Project_A1](https://github.com/Dzeniks/Project_A1) - My 'big' first project in my 15 
-- 🕵️‍♂️[fDet](https://github.com/ByteSpiritGit/fdet) - Fake statement detection powered by AI 
+- 🚀 [Project_A1](https://github.com/Dzeniks/Project_A1) - My 'big' first project in my 15 years
+- 🕵️‍♂️ [fDet](https://github.com/ByteSpiritGit/fdet) - Fake statement detection powered by AI 
 - 🖼️ [Article Image Generator](https://github.com/aicheck-tech/article-image-generator) - Internship project using modern AI, FastAPI, and Svelte 
 - 🎮 [Wave Function Collapse](https://github.com/Dzeniks/wave-function-collapse) - Implementation of an algorithm for an unfinished game
+- 🤖 [Openchat](https://github.com/Dzeniks/openchat) - Web chat application using FastAPI and Svelte similar to ChatGPT
 
 ###
 
