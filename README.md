@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">I'm a Student at Střední průmyslová škola Brno, Purkyňova with a passion for machine learning, deep learning, and backend development. Versatile in roles like Machine learning specialist and Software Developer. GitHub showcases hands-on projects, eager to contribute in ML and backend development.</p>
-
+<p align="left">
+I am a student at the Faculty of Information Technology, Brno University of Technology, with a strong passion for machine learning, deep learning, and backend development. Versatile in roles such as Machine Learning Specialist and Software Developer, I actively showcase hands-on projects on GitHub and am eager to contribute to ML and backend development.
 ###
 
 <h2 align="left">Skills</h2>
@@ -99,7 +99,6 @@ Here are some of the bigger projects I have worked on or contributed to:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzeniks&theme=dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dzeniks&theme=dark&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -110,6 +109,9 @@ Here are some of the bigger projects I have worked on or contributed to:
   </a>
   <a href="mailto:jan.soukenik@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://jan-soukenik.eu/" target="_blank">
+    <img src="https://jan-soukenik.eu/favicon.svg" width="52" height="40" alt="portfolio website"  />
   </a>
 </div>
 
