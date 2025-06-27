@@ -12,7 +12,6 @@
 
 <p align="left">
 I am a student at the Faculty of Information Technology, Brno University of Technology, with a strong passion for machine learning, deep learning, and backend development. Versatile in roles such as Machine Learning Specialist and Software Developer, I actively showcase hands-on projects on GitHub and am eager to contribute to ML and backend development.
-###
 
 <h2 align="left">Skills</h2>
 
